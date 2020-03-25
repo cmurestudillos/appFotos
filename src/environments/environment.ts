@@ -4,13 +4,13 @@
 
 export const environment = {
   production: false,
-  firebase: {
-    apiKey: "AIzaSyAy2XN2OveKnwtgRhj_OrHzwQJE-7J8zCM",
-    authDomain: "appfotos-fa947.firebaseapp.com",
-    databaseURL: "https://appfotos-fa947.firebaseio.com",
-    projectId: "appfotos-fa947",
-    storageBucket: "appfotos-fa947.appspot.com",
-    messagingSenderId: "996692778951"
+    firebase: {
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    databaseURL: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    projectId: "xxxxxxxxxxxxx",
+    storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxx",
+    messagingSenderId: "xxxxxxxxxxxxx",
   }
 };
 
